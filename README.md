@@ -1,5 +1,8 @@
-<html>
-style= tahoma; colour= pink <h1> What is SASS? </h1>
+<!DOCTYPE>
+
+  
+<h1> What is SASS?</h1>
+<div class="italic">
 Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS). SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called "the indented syntax," uses a syntax similar to Haml.[4] It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, "SCSS" (Sassy CSS), uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss, respectively.
 <br>
 <h2>Partials</h2>
